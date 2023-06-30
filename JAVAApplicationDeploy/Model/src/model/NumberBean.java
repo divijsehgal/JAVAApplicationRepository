@@ -1,5 +1,7 @@
 package model;
 
+//NumberBean File
+
 public class NumberBean {
   private final double num;
 
